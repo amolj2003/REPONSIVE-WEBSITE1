@@ -1,0 +1,9 @@
+@media screen and (max-width: 400px){
+div{
+display: flex;
+flex-direction: column;
+}
+}
+h1{
+color:white;
+}
